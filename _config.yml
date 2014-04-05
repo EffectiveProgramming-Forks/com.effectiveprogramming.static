@@ -1,0 +1,5 @@
+name: Effective Programming Static
+title: static
+markdown: redcarpet
+pygments: true
+exclude: [run.sh]
