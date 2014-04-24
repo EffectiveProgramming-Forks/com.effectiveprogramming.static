@@ -125,6 +125,19 @@ div.subtitle {
 	text-align: left;
 }
 
+/* content */
+
+div.contentTitle {
+	background-color: #d1d1d1;
+	margin-bottom: 1em;
+	padding: 3px;
+	text-align: center;
+	
+	-webkit-border-radius: 12px;
+	-moz-border-radius: 12px;
+	border-radius: 12px;
+}
+
 .content {
 	margin: auto;
 	width: 42em;
