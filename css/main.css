@@ -82,16 +82,21 @@ blockquote {
 }
 
 div.toolbar {
+	margin: 0;
 	padding: 0 0 1em 0;
-	text-align: right;
+	text-align: left;
 }
 
 div.toolbar ul, 
 div.toolbar ul li {
 	display: inline;
 	list-style: none;
-	text-align: right;
-	padding: 0em 0 1em 0;
+	padding: 0 1em 0 4px;
+	margin: 0;
+}
+
+div.toolbar ul.right {
+	float: right;
 }
 
 /*****************************************************************************/
